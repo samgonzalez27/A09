@@ -5,26 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="26a19309-7397-489c-a458-2171c4891e58" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/images/brancaccio75.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/chua75.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/eire75.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sampson75.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sampson_dinosaur.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sorkin75.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/town_hall_logo.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tynan75.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/speakers/brancaccio.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/speakers/chua.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/speakers/sampson.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/speakers/sorkin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/slicknav.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/speaker.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/basic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/speakers/sampson.html" beforeDir="false" afterPath="$PROJECT_DIR$/speakers/sampson.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/speaker.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/speaker.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,29 +19,42 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;samgonzalez27&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/samgonzalez27/A09.git&quot;,
+    &quot;accountId&quot;: &quot;bb25aef6-444a-40f1-8215-190d00c39633&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="2olhjeYVPzerp5pyfFG1PYm4cZx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "JavaScript Debug.index.html.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "disable.download.node.interpreter.editor.notification": "true",
-    "git-widget-placeholder": "master",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;disable.download.node.interpreter.editor.notification&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/IS117Download/student_download/solutions/town_hall_1/styles/c7_main.css&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -72,7 +70,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1731450205856</updated>
-      <workItem from="1731450207048" duration="6348000" />
+      <workItem from="1731450207048" duration="7949000" />
+      <workItem from="1731509708061" duration="4000" />
+      <workItem from="1731514442218" duration="362000" />
     </task>
     <servers />
   </component>
